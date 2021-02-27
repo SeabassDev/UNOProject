@@ -30,6 +30,8 @@ int main(int argc, char** argv) {
      
     cout<<"Hello world"<<endl;
     
+    cout<<"Bye World"<<endl;
+    
     // Terminate Program
     // Close files, deallocate memory, etc...
     return 0;
