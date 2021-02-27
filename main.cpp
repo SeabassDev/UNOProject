@@ -20,7 +20,7 @@ int main(int argc, char** argv) {
     // Random Number Seed
     
     // Variable Declarations
-    
+    cout<<"Hello World"<<endl;
     // Variable Input/Initialization
     
     // Processes/Computations
