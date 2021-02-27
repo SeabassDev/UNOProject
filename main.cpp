@@ -20,14 +20,21 @@ int main(int argc, char** argv) {
     // Random Number Seed
     
     // Variable Declarations
-    cout<<"Hello World"<<endl;
+    
     // Variable Input/Initialization
     
     // Processes/Computations
     
     // Output
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+     cout<<"Hello World"<<endl;
+=======
+>>>>>>> Stashed changes
     cout<<"Hello world"<<endl;
     
+>>>>>>> 178e425184c36c569b651d592b43659dac9be520
     // Terminate Program
     // Close files, deallocate memory, etc...
     return 0;
