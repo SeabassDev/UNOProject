@@ -26,6 +26,7 @@ int main(int argc, char** argv) {
     // Processes/Computations
     
     // Output
+    cout<<"Hello world"<<endl;
     
     // Terminate Program
     // Close files, deallocate memory, etc...
