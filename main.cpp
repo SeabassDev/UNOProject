@@ -11,34 +11,10 @@ using namespace std;
 
 // User Libraries
 
-// Global Constants Only
-
-// Function Prototypes
-
 // Execution of Code Begins Here
 int main(int argc, char** argv) {
     // Random Number Seed
-    
-    // Variable Declarations
-    
-    // Variable Input/Initialization
-    
-    // Processes/Computations
-    
-    // Output
-    cout<<"Hello World"<<endl;
-     
-    cout<<"Hello world"<<endl;
-    
-    cout<<"Bye World"<<endl;
-    
-    cout<< "Hello World" << endl;
-    cout<<"Hello RCC"<<endl;
-    
-    cout << "UNO World"  << endl;
             
-    
-    // Terminate Program
-    // Close files, deallocate memory, etc...
+    // Cleanup
     return 0;
 }
